@@ -1,0 +1,9 @@
+pandas
+sqlalchemy
+acdh_tei_pyutils
+jinja2
+acdh-arche-assets
+flake8
+black
+mysqlclient
+python-slugify  

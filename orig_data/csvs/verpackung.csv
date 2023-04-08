@@ -1,0 +1,241 @@
+verpackungId,verpackung
+1,Kübel
+2,Kistel
+3,Paket
+4,Schachtel
+5,Fässel
+6,Päckel
+7,Ballen
+8,Ballel
+9,Pänzel
+10,Truhen
+11,Fass
+228,Reiterl
+39,Stückel
+15,Kisten
+38,Kästel
+17,Colli
+18,Pintel/Pinkel (= Bündel)
+19,Rollen
+20,Säckel
+21,Sack
+22,Korb
+23,Pack
+24,Tonne
+25,Stück
+26,Schachterl
+27,Verschlägl
+28,Lägel
+29,Verschlag
+37,Kraxen
+31,Körbel
+36,Stückfass
+140,Posatz
+34,Ranzen
+35,Koffer
+40,Buschen
+41,Brief
+42,Trühel
+43,Tragen
+45,Garnituren
+46,Steigel
+47,Küberl
+48,Steige
+49,Taschen
+50,Ziechen
+51,Flaschen
+52,Kistel (klein)
+53,Stübich (Stibig)
+54,Geschirrl
+55,"Kisten, Fass, Fässel"
+56,Stock
+57,Ries (Riss)
+58,Oxhoft
+59,Fläschel
+60,Fässel (klein)
+61,Büchse/n
+62,Geschirr
+63,Kraxel
+64,"Fass, Fässel"
+65,Trühel (klein)
+66,Bouteillen
+67,Schachtel (grob)
+68,Schaff
+69,Ämper 
+70,Untersetzer
+71,Salzfässl
+72,Börsen
+73,Fuder
+74,Platten
+75,Wasserkraxen
+76,Ziechl
+135,Paar
+78,Panzen
+79,Reiterl
+80,Pierth/Pürth
+81,Desen
+82,Kasten
+83,Tafeln
+84,Mantelsack
+86,"Kraxen, Trühel, Korb"
+87,Verschlägl (klein)
+88,Reiter
+211,"Colli, Kisten, Reiter"
+225,Fässerl
+92,Testel
+93,Pänzel (klein)
+94,Platten (eiserne)
+95,Laib
+96,Lägerl
+97,Paketel
+98,"Kisten, Kraxen"
+99,Päckel (klein)
+227,Säckel
+101,Kästel (klein)
+102,"Fass, Kisten"
+103,"Fässel, Lägel"
+104,Zulast
+105,"Ballen, Fass"
+106,Ballel (klein)
+107,Fässel (doppelt)
+108,Büschel
+109,Wang
+110,"Kraxen, Trühel"
+111,Felleisen (Veleis=Art Sack)
+112,Kästel (halb)
+113,Reittasche
+114,"Fass, Stübich "
+115,"Kisten, Fass, Verschlag"
+116,Dosen
+117,Tragl
+244,Zentnerbuschen
+119,Kisten (groß)
+120,Kisten (klein)
+121,"Kraxen, Stübich "
+122,Butten (Putn)
+124,"Truhen, Verschläge"
+125,"Kisten, Verschlag"
+127,Lägel (klein)
+128,"Ballen, Fässel, Kisten"
+129,"Kistel, Kisten"
+130,"Fässel, Fläschel"
+226,"Kisten, Päckel"
+224,Schachtel (klein)
+133,Pänzerl
+134,Stückel (klein)
+136,"Kisten (groß), Kisten (klein)"
+137,Säckel (klein)
+138,Körbel (klein)
+139,"Kistel, Verschlag"
+165,"Kisten, Körbe"
+142,"Kisten, Truhen"
+144,Ballerl
+145,Eimer
+146,"Kisten, Truhen, Verschlag"
+147,"Kistel, Paket"
+148,"Ballen, Paket"
+149,Kübel (halb)
+150,"Fass, Korb"
+153,"Fass, Paket"
+154,"Fass, Sack"
+155,"Ballen, Kistl"
+156,"Ballel, Kistel, Verschlag"
+166,Glasel (klein)
+252,Fässel (in Übergeschirr)
+158,Futteral
+159,Halbstückel
+160,Fässel (viertel)
+161,"Kraxen, Truhen"
+162,Karten
+163,Startin
+164,"Ballel, Ballen"
+167,"Kisten, Fässel"
+168,Ohm
+169,Wagen
+170,Fass (halb)
+171,Stizen
+172,Kalter (klein)
+173,Steigel (halb)
+174,Testen
+175,Anlägel
+176,Tonne (halb)
+177,Büchse/n (halb)
+178,Colli (halb)
+179,Stübich (halb)
+180,Schiffel
+181,Gestadel
+182,Pedter
+183,Lägel (Steinbacher)
+222,"Kistel, Päckel"
+185,Schaffel
+186,Stimpfel
+187,Viertel
+188,Ring
+189,Fuder (groß)
+190,Last
+191,"Fass, Lägel"
+192,Fläschel (klein)
+193,Fässel (einpalliert)
+194,Wurf
+195,Schöb
+196,"Kisten, Colli"
+197,Stückholz
+198,Glasel
+199,Kraxen (klein)
+200,Pippen
+201,Laibel (klein)
+202,Laibel
+203,Glas
+204,"Kisten, Stübich "
+205,Paket (lang)
+206,Spritzen
+207,"Kisten, Reiter"
+208,Paket (klein)
+209,Barcha
+210,Tafeln (ledig)
+213,Kufen
+214,"Colli, Kisten, Lägel"
+215,Anleg
+216,Vogelhaus
+217,"Körbel, Kraxen"
+218,Fagotto (=Bündel)
+270,Bottich (Poding)
+229,Rollerl
+230,Stübich (klein)
+231,Stange
+232,Pieces
+233,"Stübich, Truhen"
+234,Paketel (klein)
+237,"Ballel, Kistel"
+238,Plättel
+239,"Fässel, Kisten"
+240,"Körbe, Kraxen, Stiegen"
+241,Stück (klein)
+242,Stich
+243,Exemplare
+245,Fiolet
+246,"Fässel, Trühel"
+268,Piterl (klein)
+248,"Fass, Kisten, Truhen"
+249,"Ballen, Truhen"
+250,"Kistel, Kraxen"
+251,"Fässel, Lediger"
+253,Geschirrl (klein)
+254,Ränzel
+255,"Kisten, Verschlägel"
+256,Bändel
+257,Heft
+258,Keller
+260,Bund
+261,Stierz
+262,"Kisten, Lägel"
+263,"Ballen, Lediger"
+264,Zuber
+269,Büttel
+265,Gepäckstück
+266,"Kisten, Lediger"
+267,"Fass, Lediger"
+271,Pänzel (emballiert)
+272,Post (Bost)
+273,"Ballen, Kisten"
+274,Schaub
